@@ -1,0 +1,123 @@
+{
+  "archivos_procesados": 11,
+  "detalle_archivos": [
+    {
+      "archivo": "infocana_2015-2016.csv",
+      "zafra": "2015-2016",
+      "registros_crudos": 1258,
+      "columnas_crudas": 43
+    },
+    {
+      "archivo": "infocana_2016-2017.csv",
+      "zafra": "2016-2017",
+      "registros_crudos": 1180,
+      "columnas_crudas": 43
+    },
+    {
+      "archivo": "infocana_2017-2018.csv",
+      "zafra": "2017-2018",
+      "registros_crudos": 1268,
+      "columnas_crudas": 50
+    },
+    {
+      "archivo": "infocana_2018-2019.csv",
+      "zafra": "2018-2019",
+      "registros_crudos": 1224,
+      "columnas_crudas": 50
+    },
+    {
+      "archivo": "infocana_2019-2020.csv",
+      "zafra": "2019-2020",
+      "registros_crudos": 1115,
+      "columnas_crudas": 51
+    },
+    {
+      "archivo": "infocana_2020-2021.csv",
+      "zafra": "2020-2021",
+      "registros_crudos": 1157,
+      "columnas_crudas": 50
+    },
+    {
+      "archivo": "infocana_2021-2022.csv",
+      "zafra": "2021-2022",
+      "registros_crudos": 1220,
+      "columnas_crudas": 51
+    },
+    {
+      "archivo": "infocana_2022-2023.csv",
+      "zafra": "2022-2023",
+      "registros_crudos": 1104,
+      "columnas_crudas": 51
+    },
+    {
+      "archivo": "infocana_2023-2024.csv",
+      "zafra": "2023-2024",
+      "registros_crudos": 1114,
+      "columnas_crudas": 51
+    },
+    {
+      "archivo": "infocana_2024-2025.csv",
+      "zafra": "2024-2025",
+      "registros_crudos": 1055,
+      "columnas_crudas": 51
+    },
+    {
+      "archivo": "infocana_2025-2026.csv",
+      "zafra": "2025-2026",
+      "registros_crudos": 183,
+      "columnas_crudas": 18
+    }
+  ],
+  "registros_crudos_totales": 11878,
+  "registros_limpios_semanales": 11878,
+  "registros_eliminados_nulos_nucleo": 0,
+  "duplicados_eliminados": 0,
+  "imputaciones_cana_neta": 449,
+  "ratio_mediana_neta_bruta": 0.9638,
+  "nulos_antes_limpieza": {
+    "ingenio": 0,
+    "zafra": 0,
+    "no_s_zafra": 0,
+    "cana_molida_bruta": 0,
+    "cana_molida_neta": 0,
+    "superficie_cosechada": 0,
+    "azucar_producida_total": 0,
+    "azucar_producida_refinada": 0,
+    "azucar_producida_estandar": 0,
+    "azucar_producida_blanca_especial": 0,
+    "azucar_producida_mascabado": 0,
+    "toneladas_azucar_con_pol_menor_99_2": 6087,
+    "karbe_ton_cana_bruta_teorico": 0,
+    "karbe_ton_cania_neta_teorico": 0,
+    "eficiencia_en_fabrica": 0,
+    "rendimiento_campo": 2438,
+    "rendimiento_fabrica": 2438,
+    "rendimiento_agroindustrial": 11695
+  },
+  "nulos_despues_limpieza": {
+    "ingenio": 0,
+    "zafra": 0,
+    "no_s_zafra": 0,
+    "cana_molida_bruta": 0,
+    "cana_molida_neta": 0,
+    "superficie_cosechada": 0,
+    "azucar_producida_total": 0,
+    "azucar_producida_refinada": 0,
+    "azucar_producida_estandar": 0,
+    "azucar_producida_blanca_especial": 0,
+    "azucar_producida_mascabado": 0,
+    "toneladas_azucar_con_pol_menor_99_2": 0,
+    "karbe_ton_cana_bruta_teorico": 0,
+    "karbe_ton_cania_neta_teorico": 0,
+    "eficiencia_en_fabrica": 0,
+    "rendimiento_campo": 0,
+    "rendimiento_fabrica": 0,
+    "rendimiento_agroindustrial": 0
+  },
+  "zafras_totales": 11,
+  "rango_zafras": "2015-2016 a 2025-2026",
+  "ingenios_unicos": 52,
+  "registros_cierre_ingenio_zafra": 534,
+  "registros_resumen_zafra": 11,
+  "registros_semanal_nacional": 360
+}

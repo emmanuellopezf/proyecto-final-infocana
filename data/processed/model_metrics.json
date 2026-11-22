@@ -1,0 +1,76 @@
+{
+  "serie_temporal": {
+    "n_zafras_completas": 10,
+    "n_train": 8,
+    "n_test": 2,
+    "train_zafras": "2015-2016 a 2022-2023",
+    "test_zafras": "2023-2024 a 2024-2025",
+    "ultimo_valor_real_zafra_completa": 4770525.351,
+    "ultima_zafra_completa": "2024-2025",
+    "ultimo_valor_parcial_25_26": 562916.187,
+    "semana_parcial_25_26": 14,
+    "ingenios_parcial_25_26": 40,
+    "max_zafra": "2018-2019",
+    "max_azucar": 6209957.817,
+    "min_zafra": "2023-2024",
+    "min_azucar": 4703547.389,
+    "beta0_eval_80": 6189340.366071429,
+    "beta1_eval_80": -82826.661654762,
+    "r2_train": 0.2287469216996345,
+    "rmse_train": 348474.20431491564,
+    "mae_train": 254786.83570238098,
+    "rmse_test": 669652.8983167247,
+    "mae_test": 665450.7103511901,
+    "beta0_full": 6406163.782066666,
+    "beta1_full": -146447.3085757576,
+    "r2_full": 0.5658969951312549,
+    "rmse_full": 368413.9538495024,
+    "pronostico_2025_2026": 4795243.387733332,
+    "pronostico_2026_2027": 4648796.079157574,
+    "pronostico_2027_2028": 4502348.770581817
+  },
+  "regresion_operativa": {
+    "cana_molida_neta": {
+      "n_train": 427,
+      "n_test": 107,
+      "beta0": -2304.470444645325,
+      "beta1": 0.11807210909284337,
+      "r2_train": 0.9734933034102351,
+      "r2_test": 0.9493613331914059,
+      "rmse_test": 13846.699791798866,
+      "mae_test": 8251.825628824508
+    },
+    "cana_molida_bruta": {
+      "n_train": 427,
+      "n_test": 107,
+      "beta0": -1537.4586149511306,
+      "beta1": 0.1125561100324517,
+      "r2_train": 0.965942391519368,
+      "r2_test": 0.938705242643114,
+      "rmse_test": 15234.10027432131,
+      "mae_test": 9386.057282581967
+    },
+    "superficie_cosechada": {
+      "n_train": 427,
+      "n_test": 107,
+      "beta0": 28658.179458205486,
+      "beta1": 5.549942132109738,
+      "r2_train": 0.6824394393125713,
+      "r2_test": 0.6850596460892218,
+      "rmse_test": 34531.806637893445,
+      "mae_test": 29186.774619282372
+    },
+    "multiple_cana_superficie": {
+      "n_train": 427,
+      "n_test": 107,
+      "beta0": -2196.9284368098015,
+      "coefs": [
+        0.13340735125548664,
+        -0.9864664651434735
+      ],
+      "r2_test": 0.9616630266862148,
+      "rmse_test": 12047.974955589769,
+      "mae_test": 7187.225301113106
+    }
+  }
+}
